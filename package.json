@@ -1,0 +1,25 @@
+{
+  "name": "deploy_own_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prateekshuklaps0/Deploy_Own_Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prateekshuklaps0/Deploy_Own_Server/issues"
+  },
+  "homepage": "https://github.com/prateekshuklaps0/Deploy_Own_Server#readme",
+  "dependencies": {
+    "json": "^11.0.0",
+    "server": "^1.0.38"
+  }
+}
