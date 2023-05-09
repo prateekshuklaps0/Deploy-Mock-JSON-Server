@@ -3,7 +3,7 @@
 1. Create a Public Repo.
 2. Clone and Open Vs Code.
 3. npm init -y
-4. npm i json server
+4. npm install --save json server
 5. Create a index.js file.
 6. Go to package.json and Add a new line in Scripts - "start": "node index.js".
 7. Create .gitignore file and add node_modules (to stop pushing node_modules to github).
